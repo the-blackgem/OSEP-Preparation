@@ -12,7 +12,11 @@ https://www.offensive-security.com/pen300-osep/
 ### C#
 
 
-## Operating Systemps
+## Operating Systems
+### Windows
+- ff
+### Linux
+- ff
 
 ## Syllabus
 Template from https://github.com/deletehead/pen_300_osep_prep/blob/main/README.md
