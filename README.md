@@ -4,12 +4,12 @@ https://www.offensive-security.com/pen300-osep/
 
 ## Content
 * [Pre-Knowledge](#Pre-Knowledge)
-* [Syllabus] (#Syllabus)
+* [Syllabus](#Syllabus)
 * 
 
 # Pre-Knowledge
 ## Programing Languages
-- Programming Languages
+### C#
 
 
 ## Operating Systemps
