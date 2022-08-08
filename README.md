@@ -2,6 +2,18 @@
 This is a repository of the assets and researches I used for preparing for the OSEP. 
 https://www.offensive-security.com/pen300-osep/
 
+## Content
+* [Pre-Knowledge](#Pre-Knowledge)
+* [Syllabus] (#Syllabus)
+* 
+
+# Pre-Knowledge
+## Programing Languages
+- Programming Languages
+
+
+## Operating Systemps
+
 ## Syllabus
 Template from https://github.com/deletehead/pen_300_osep_prep/blob/main/README.md
 - [x] 1. Evasion Techniques and Breaching Defenses: General Course Information
