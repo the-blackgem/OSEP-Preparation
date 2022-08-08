@@ -10,7 +10,7 @@ https://www.offensive-security.com/pen300-osep/
 # Pre-Knowledge
 ## Programing Languages
 ### C#
-- https://www.youtube.com/watch?v=TqiysLEBZo4 (Spanish)
+- https://www.youtube.com/watch?v=GhQdlIFylQ8
 - 
 
 ## Operating Systems
