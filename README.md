@@ -5,7 +5,7 @@ https://www.offensive-security.com/pen300-osep/
 ## Content
 * [Pre-Knowledge](#Pre-Knowledge)
 * [Syllabus](#Syllabus)
-* [Report Templates](#Report Templates)
+* [Report Templates](#Report-Templates)
 
 # Pre-Knowledge
 ## Programing Languages
