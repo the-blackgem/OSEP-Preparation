@@ -5,7 +5,7 @@ https://www.offensive-security.com/pen300-osep/
 ## Content
 * [Pre-Knowledge](#Pre-Knowledge)
 * [Syllabus](#Syllabus)
-* 
+* [Report Templates](#Report Templates)
 
 # Pre-Knowledge
 ## Programing Languages
@@ -459,3 +459,9 @@ Template from https://github.com/deletehead/pen_300_osep_prep/blob/main/README.m
 - [ ] 18 Trying Harder: The Labs
   - [ ] 18.1 Real Life Simulations
   - [ ] 18.2 Wrapping Up
+
+## Report Templates
+- https://www.offensive-security.com/pwk-online/PWK-Example-Report-v1.pdf
+- https://help.offensive-security.com/hc/en-us/articles/360046787731-PEN-200-Reporting-Requirements
+- https://github.com/noraj/OSCP-Exam-Report-Template-Markdown
+- https://www.offensive-security.com/pwk-online/PWKv1-REPORT.doc
